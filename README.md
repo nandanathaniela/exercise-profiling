@@ -1,4 +1,4 @@
-<h1>Profiling Exercise<h1>
+<h1>Profiling Exercise</h1>
 
 ### Nanda Nathaniela Meizari
 ### 2206824136
